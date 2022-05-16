@@ -470,7 +470,7 @@ body {
 }
 
 .hero-section {
-  background-image: url("/images/cover.jpg");
+  background-image: url("../images/cover.jpg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
