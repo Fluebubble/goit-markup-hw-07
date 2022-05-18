@@ -27,15 +27,15 @@
     font-style: normal;
     letter-spacing: calc(1em / 33);
 
-    .footer__contact--map {
+    &--map {
         color: var(--white-color);
     }
 
-    .footer__contact--mail {
+    &--mail {
         margin-top: 9px;
     }
 
-    .footer__contact--phone {
+    &--phone {
         margin-top: 9px;
     }
 }

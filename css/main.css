@@ -728,13 +728,13 @@ body {
   font-style: normal;
   letter-spacing: 0.0303030303em;
 }
-.footer__contact .footer__contact--map {
+.footer__contact--map {
   color: var(--white-color);
 }
-.footer__contact .footer__contact--mail {
+.footer__contact--mail {
   margin-top: 9px;
 }
-.footer__contact .footer__contact--phone {
+.footer__contact--phone {
   margin-top: 9px;
 }
 
@@ -953,7 +953,7 @@ body {
   background-color: #c6d2db;
 }
 .lead-form__label-policy::after {
-  background-image: url(/images/svg/formhw/icon-check.svg);
+  background-image: url(../images/svg/formhw/icon-check.svg);
   position: absolute;
   display: none;
   content: "";
